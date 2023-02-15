@@ -1,2 +1,2 @@
 # Mi-Primer-Repositorio
-confirmando informacion
+Informacion Confirmada
