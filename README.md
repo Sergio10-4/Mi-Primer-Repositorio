@@ -1,2 +1,2 @@
 # Mi-Primer-Repositorio
-refrescando confirmacion
+confirmando informacion
